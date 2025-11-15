@@ -26,7 +26,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -39,3 +38,4 @@ public/fonts/**/Optimistic_*.woff2
 
 # rss
 public/rss.xml
+config.bat
